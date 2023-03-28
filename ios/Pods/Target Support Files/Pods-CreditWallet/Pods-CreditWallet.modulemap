@@ -1,0 +1,6 @@
+module Pods_CreditWallet {
+  umbrella header "Pods-CreditWallet-umbrella.h"
+
+  export *
+  module * { export * }
+}
